@@ -28,12 +28,14 @@ li a:hover {
 	background-color:none; 
 }
 body{
-	background: no-repeat url("fond-d'écran1.jpg");
-	background-size: 1600px 800px;
+	background-image:url("bg.jpg");
+	background-repeat: no-repeat;
+	background-size: 2020px 967px;
 	padding:0;
 	margin:0;
 	height:100%;
 	width:100%;
+	color: white;
 }
 h2{
 	color: white;
@@ -43,14 +45,16 @@ h4{
 }
 .réseaux{
 	float: right;
-	padding-top:150px;
+	padding-top:220px;
 	
 }
 .menu > li
 	{background-color: none}
 
 html{
-	color: white;
 	font-family: arial;
 }
-
+.Contact{
+	height: 500px;
+	width: 100px;
+}
