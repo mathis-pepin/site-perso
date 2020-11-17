@@ -1,8 +1,10 @@
 <?php
-include_once "a-propos.php";
-include_once "competence.php";
-include_once "experience.php";
-include_once "contact.php";
-include_once "formation.php";
 include_once "monsite.php";
+?>
+<?php
+include_once "A-propos.php";
+include_once "Experience.php";
+include_once "Competances.php";
+include_once "Formation.php";
+include_once "Contact.php";
 ?>
