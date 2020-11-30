@@ -1,0 +1,1 @@
+<div id="container_for"><p id="for">Mes formations:<br><br>Les formations que j'ai faites sont une seconde générale, une première et terminale technologique STMG option Ressources Humaines et Communication.<br>Puis, je suis rentré au Lycée Saint-Ursule à caen pour faire l'option Services Informatiques aux Organisations en BTS pour me spécialiser dans l'informatique.</p></div>
