@@ -10,8 +10,8 @@
 <?php
   include_once "src/monsite.php";
   include_once "src/mon-site.css";
-  ?>
-  <?php
+?>
+<?php
   include_once "src/A-propos.php";
   include_once "src/Experience.php";
   include_once "src/Competances.php";
