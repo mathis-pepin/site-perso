@@ -6,6 +6,7 @@
 		<link rel="stylesheet" href="mon-site.css">
 		<link rel="stylesheet" type="text/css" href="mon-site.css?1">
 		<link rel="stylesheet" href="css/all.css">
+		<link rel="stylesheet" type="text/css" href="css/all.css?1">
 </head>
 	<body>
 		<header>
