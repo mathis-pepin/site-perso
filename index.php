@@ -1,5 +1,6 @@
 <?php
 include_once "src/monsite.php";
+include_once "src/monsite.css";
 ?>
 <?php
 include_once "src/A-propos.php";
@@ -8,6 +9,6 @@ include_once "src/Competances.php";
 include_once "src/Formation.php";
 include_once "src/Contact.php";
 ?>
-<?php
-include_once "src/monsite.css"
-?>
+
+
+
