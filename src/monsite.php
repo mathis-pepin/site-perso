@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<title>Mon site personnel</title>
 		<link rel="stylesheet" type="text/css" href="mon-site.css?1">
-		<link rel="stylesheet" type="text/css" href="css/all.css?1">
+		<link rel="stylesheet" type="text/css" href="css/all.css">
 </head>
 	<body>
 		<header>
