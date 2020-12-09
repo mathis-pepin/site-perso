@@ -1,10 +1,10 @@
 <?php
-include_once "monsite.php";
+include_once "/src/monsite.php";
 ?>
 <?php
-include_once "A-propos.php";
-include_once "Experience.php";
-include_once "Competances.php";
-include_once "Formation.php";
-include_once "Contact.php";
+include_once "/src/A-propos.php";
+include_once "/src/Experience.php";
+include_once "/src/Competances.php";
+include_once "/src/Formation.php";
+include_once "/src/Contact.php";
 ?>
