@@ -3,8 +3,8 @@
 <head>
   <title>Mon site</title>
   <meta charset="utf-8">
-  <link rel="stylesheet" type="text/css" href="mon-site.css"
-  <link rel="stylesheet" type="text/css" href="css/all.css"
+  <link rel="stylesheet" type="text/css" href="src/mon-site.css"
+  <link rel="stylesheet" type="text/css" href="src/css/all.css"
 </head>
 <body>
 <?php
