@@ -8,3 +8,5 @@ include_once "src/Competances.php";
 include_once "src/Formation.php";
 include_once "src/Contact.php";
 ?>
+<?php
+include_once "src/monsite.css"
