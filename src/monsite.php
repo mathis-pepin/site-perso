@@ -3,7 +3,8 @@
 <head>
 		<meta charset="UTF-8">
 		<title>Mon site personnel</title>
-		<link rel="stylesheet" href="mon-site.css">	
+		<link rel="stylesheet" href="mon-site.css">
+		<link rel="stylesheet" type="text/css" href="mon-site.css">
 		<link rel="stylesheet" href="css/all.css">
 </head>
 	<body>
