@@ -21,7 +21,7 @@
 	<h2>Mon Slogan est "Réfléchissez avant de cliquer"</h2>
 			<ul class="réseaux">
 				<li><h2>Mes réseaux : </h2></li><br>
-				<li> <a href="mailto: mathispepin14170@gmail.com"><i class="far fa-envelope fa-2x"></i></a></li><br>
+				<li> <a href="mailto:mathispepin14170@gmail.com"><i class="far fa-envelope fa-2x"></i></a></li><br>
 				<li> <a href="https://www.instagram.com/pepin.mathis/"><i class="fab fa-instagram fa-2x"></i></a></li>
 			</ul>
 	
